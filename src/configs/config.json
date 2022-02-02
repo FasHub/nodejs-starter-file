@@ -1,0 +1,7 @@
+{
+    "wordpress": {
+        "rest_endpoint" : "http://yilkalyenesewimportandexport.com/wp-json/wp/v2/",
+        "token_auth_url": "http://yilkalyenesewimportandexport.com/wp-json/jwt-auth/v1/token",
+        "token_auth_validate_url" : "http://yilkalyenesewimportandexport.com/wp-json/jwt-auth/v1/token/validate"
+    }
+}
